@@ -1,16 +1,15 @@
-## Leo - High-Performance Rest API Framework written in Go (Golang), designed for speed, efficiency, and developer-friendly APIs.
+<p align="center"><a href="https://github.com/leo-golang/leo" target="_blank"><img src="https://avatars.githubusercontent.com/u/201260866" width="200"></a></p>
 
-"LEO – The King of REST APIs written in Go"  
+<p align="center">Leo – The King of REST APIs written in Go</p>
 
-## Description  
-LEO is a cutting-edge  REST API framework written in Go (Golang), built for performance, scalability, speed, and simplicity.  
-Designed for developers who demand efficiency, LEO provides a lightweight yet powerful architecture  
+## About  
+Leo - High-Performance Rest API Framework written in Go (Golang), designed for speed, efficiency, and developer-friendly APIs. Leo provides a lightweight yet powerful architecture  
 that scales effortlessly from small projects to enterprise-level applications.  
 
 With its intuitive CLI tool, LEO enables developers to **quickly scaffold projects, manage models,  
 and handle database migrations**, allowing for rapid API development without unnecessary complexity.  
 
-LEO empowers you to write less boilerplate, ship faster, and scale effortlessly.  
+Leo empowers you to write less boilerplate, ship faster, and scale effortlessly.  
 
 ---
 
@@ -30,11 +29,11 @@ LEO empowers you to write less boilerplate, ship faster, and scale effortlessly.
 
 ---
 
-## 🚀 Why Choose LEO?  
+## 🚀 Why Choose Leo?  
 - 🔹 Lightning Fast – Optimized for high-speed API responses.  
 - 🔹 Effortlessly Scalable – Handle millions of requests with ease.  
 - 🔹 Minimal Boilerplate – Focus on your logic, not repetitive setup.  
 - 🔹 Golang-Powered – Leverage Go’s concurrency model for superior performance.  
 - 🔹 Built for Developers – CLI-driven workflow for rapid API development.  
 
-Start building with LEO today – The framework built for speed, scale, and simplicity! 🚀🔥
+Start building with Leo today – The framework built for speed, scale, and simplicity! 🚀🔥
