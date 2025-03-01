@@ -25,7 +25,8 @@ Leo empowers you to write less boilerplate, ship faster, and scale effortlessly.
 - ✅ Caching System – Improve performance with built-in caching solutions.  
 - ✅ Event System – Implement async event-driven processing.  
 - ✅ Queue & Job Processing – Scale background tasks seamlessly.  
-- ✅ File Storage – Handle file uploads and storage with ease.  
+- ✅ File Storage – Handle file uploads and storage with ease.
+- ✅ Powerful Dependency Injection Container.
 
 ---
 
