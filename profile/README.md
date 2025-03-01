@@ -3,7 +3,7 @@
 <p align="center">Leo – The King of REST APIs written in Go</p>
 
 ## About  
-Leo - High-Performance Rest API Framework written in Go (Golang), designed for speed, efficiency, and developer-friendly APIs. Leo provides a lightweight yet powerful architecture  
+Leo - High-Performance REST API Framework written in Go (Golang), designed for speed, efficiency, and developer-friendly APIs. Leo provides a lightweight yet powerful architecture  
 that scales effortlessly from small projects to enterprise-level applications.  
 
 With its intuitive CLI tool, LEO enables developers to **quickly scaffold projects, manage models,  
