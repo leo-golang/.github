@@ -17,7 +17,7 @@ Leo empowers you to write less boilerplate, ship faster, and scale effortlessly.
 - ✅ Performance-Optimized – Ultra-fast request handling with minimal overhead.  
 - ✅ Scalability-Ready – Designed to handle high-traffic, distributed workloads.  
 - ✅ Developer-Friendly – Simple yet powerful API design with minimal learning curve.  
-- ✅ LEO CLI Tool – Quickly generate models, controllers, and database migrations.  
+- ✅ Leo CLI Tool – Quickly generate models, controllers, and database migrations.  
 - ✅ Flexible Configuration – Manage environment settings with ease.  
 - ✅ Robust Routing – Efficient, dynamic request handling with built-in router.  
 - ✅ Middleware Support – Extend functionality effortlessly.  
