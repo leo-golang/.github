@@ -6,7 +6,7 @@
 Leo - High-Performance REST API Framework written in Go (Golang), designed for speed, efficiency, and developer-friendly APIs. Leo provides a lightweight yet powerful architecture  
 that scales effortlessly from small projects to enterprise-level applications.  
 
-With its intuitive CLI tool, LEO enables developers to **quickly scaffold projects, manage models,  
+With its intuitive CLI tool, Leo enables developers to **quickly scaffold projects, manage models,  
 and handle database migrations**, allowing for rapid API development without unnecessary complexity.  
 
 Leo empowers you to write less boilerplate, ship faster, and scale effortlessly.  
